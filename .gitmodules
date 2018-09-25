@@ -7,7 +7,7 @@
 	ignore = dirty
 [submodule "third_party/protobuf"]
 	path = third_party/protobuf
-	url = git@github.com:Bugatone/protobuf.git
+	url = ../protobuf.git
 	branch = buga_grpc
 	#url = https://github.com/google/protobuf.git
 	#branch = 3.0.x
